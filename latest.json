@@ -1,7 +1,7 @@
 {
   "packageName": "com.example.solache_poc",
-  "versionCode": 2,
-  "versionName": "1.2",
+  "versionCode": 3,
+  "versionName": "1.3",
   "apkUrl": "https://github.com/ibtech-solache/solache-updates/releases/download/v1.2/SolachePocApp-v1.2.apk",
   "releaseNote": "관리자 설정 개선: 홈 화면 버튼 관리, 원격 업데이트 기능 추가"
 }
